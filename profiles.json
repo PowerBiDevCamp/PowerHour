@@ -1,0 +1,429 @@
+{
+    "AttendeeTypes": {
+        "AttendeeType": [
+            {
+                "Profile": "Attendee",
+                "BaseProfile": null,
+                "TaxonomicRank": "Kingdom",
+                "SortOrder": 1,
+                "Description": "A type of human who attends your training class or seminar. Attendee is the super type of all attendee design patterns and should be considered the equivalent of other familiar super types such java.lang.Object, System.Object and IUnknown.",
+                "Strategies": [
+                    "Transfer domain-specific knowlege",
+                    "Provide insights you have gained from your experience in the field",
+                    "Encourage Attendee to participate in classroom discussions"
+                ]
+            },
+            {
+                "Profile": "Star",
+                "BaseProfile": "Attendee",
+                "SortOrder": 10,
+                "TaxonomicRank": "Phylum",
+                "Description": "This is the ideal type of Attendee. This can be fairly subjective, but some guidelines for identifying a star: they participate, they are interested in the topic, they finished their labs in a timely fashion, they provide good/great scores, and most importantly is \"they get it\".",
+                "Strategies": [
+                    "Make sure to give them positive reinforcement"
+                ]
+            },
+            {
+                "Profile": "Buddy",
+                "BaseProfile": "Star",
+                "SortOrder": 11,
+                "TaxonomicRank": "Class",
+                "Description": "A type of Star that is a kindred spirit, and not just about technology; you may connect with him/her on various levels throughout the event, and even socialize.",
+                "Strategies": [
+                    "Go to lunch or dinner together",
+                    "Trade email addresses"
+                ]
+            },
+            {
+                "Profile": "Mentor",
+                "BaseProfile": "Star",
+                "TaxonomicRank": "Class",
+                "SortOrder": 12,
+                "Description": "A type of Star who already knows more than you about the topic you are teaching. However,  instead of asking you questions that he/she knows that you don't know the answer to, the Mentor tries his/her best to help you grow and learn more during your week together. An advanced Mentor might even help you field tough questions from other students by whispering answers to you so that you appear to the rest of the class as if you already knew the answer.",
+                "Strategies": [
+                    "Acknolege the mentor's skills to the rest of the class."
+                ]
+            },
+            {
+                "Profile": "Bailiff",
+                "BaseProfile": "Star",
+                "TaxonomicRank": "Class",
+                "SortOrder": 13,
+                "Description": "A type of Star that maintains control within the classroom. He/she gets up to shut the door when there is noise in the hall and plays the heavy in the classroom telling other students to be quiet when they are disturding your lecture.",
+                "Strategies": [
+                    "Thanks the Bailiff and provide postive reinforcement."
+                ]
+            },
+            {
+                "Profile": "Mother-Terisa",
+                "BaseProfile": "Star",
+                "TaxonomicRank": "Class",
+                "SortOrder": 14,
+                "Description": "A type of Star that provides charity work to those in need including you and other students.",
+                "Strategies": [
+                    "Point Mother-Terisa to your favorite community projects"
+                ]
+            },
+            {
+                "Profile": "Road-Warrior",
+                "BaseProfile": "Star",
+                "TaxonomicRank": "Class",
+                "SortOrder": 15,
+                "Description": "A type of Star that is able to absorb all the material you are presenting in class while at the same time still able to complete the demanding workload that his/her job requires. The Road-Warrior is often found in the last row of the classroom with a telnet or remote desktop connection back to his/her corporate network. The average Road-Warrior is able to bill enough hours to clients during classtime to cover the tuition for your class and his/her travel expsenses. An advanced Road-Warrior is able to make a large net profit for the week while offering consulting to a client based on the same set of topics your are discussing in class.",
+                "Strategies": [
+                    "Make sure Road-Warrior has an Internet connection",
+                    "Study and reuse Road-Warrior's time management skills"
+                ]
+            },
+
+            {
+                "Profile": "Teflon",
+                "BaseProfile": "Attendee",
+                "TaxonomicRank": "Phylum",
+                "SortOrder": 20,
+                "Description": "A type of Attendee that will not pick up anything from your class. No matter how hard you try, you will not be able to get your points across to a Teflon nor will he/she leave the class being able to understand any of the concepts or techniques that you have taught.",
+                "Strategies": [
+                    "Do waste too much time trying to reach a Teflon",
+                    "Redirect efforts to assist other attendees"
+                ]
+            },
+            {
+                "Profile": "Muffin-Eater",
+                "BaseProfile": "Teflon",
+                "TaxonomicRank": "Class",
+                "SortOrder": 21,
+                "Description": "A type of Teflon that is there just for the free food, beverages, or raffle prizes.",
+                "Strategies": [
+                    "Post a sign next to breakfast platter indicating one muffin per attendee"
+                ]
+            },
+            {
+                "Profile": "Flirt",
+                "BaseProfile": "Teflon",
+                "TaxonomicRank": "Class",
+                "SortOrder": 22,
+                "Description": "A type of Teflon that is constantly seeking your attention during lecture. He/she/they may do things to try to distract you while you are presenting.",
+                "Strategies": [
+                    "Do not compromize your professionalism",
+                    "Pretend the Flirt is an over-weight, elderly person of a gender you are not attracted to."
+                ]
+            },
+            {
+                "Profile": "Day-Planner",
+                "BaseProfile": "Teflon",
+                "TaxonomicRank": "Class",
+                "SortOrder": 23,
+                "Description": "A type of Teflon that needs to know exactly when class will start and end each day, including all breaks and lunch for the entire week. The Day-Panner also goes by the name of Franklin.",
+                "Strategies": [
+                    "Give the Day-Planner your best estimate but do not make any promises"
+                ]
+            },
+            {
+                "Profile": "Sponge",
+                "BaseProfile": "Teflon",
+                "TaxonomicRank": "Class",
+                "SortOrder": 24,
+                "Description": "A type of Teflon that wants to learn everything about everything and the topic your are teaching is no more important to them than a random show on the Discovery Channel. Their questions are regularly out of scope; note-taking is a common trait. Sponge is commonly aggregated together with Xerox",
+                "Strategies": [
+                    "Supply the Sponge with RSS feed URLs for the blogs of Paris Hilton, Brittany Spears and K-Fed"
+                ]
+            },
+            {
+                "Profile": "Xerox",
+                "BaseProfile": "Teflon",
+                "TaxonomicRank": "Class",
+                "SortOrder": 25,
+                "Description": "The Xerox take the time required to perfectly copy all of your drawings and faithfully transcribes your comments with the accuracy of a courtroom stenographer. The Xerox likely will not ever understand what he/she is copying down the act of copying keeps him/her busy and is fulfilling.",
+                "Strategies": [
+                    "Draw diagrams and comments on a peice of paper during a break and give it to the Xerox as a sign of good faith."
+                ]
+            },
+            {
+                "Profile": "Warden",
+                "BaseProfile": "Teflon",
+                "TaxonomicRank": "Class",
+                "SortOrder": 26,
+                "Description": "The Warden has not come to pick up anything from class but only to make sure that other attendees show up on time and do not leave early. Warden is often found in compositions along with Prisoner.",
+                "Strategies": [
+                    "Make small talk but do not engage in serious conversation."
+                ]
+            },
+            {
+                "Profile": "Prisoner",
+                "BaseProfile": "Teflon",
+                "TaxonomicRank": "Class",
+                "SortOrder": 27,
+                "Description": "The Prisoner was somehow made to attend your class against his/her will. A prisoner will not actively participate and or even pretend to have any interest in the topics for are teaching.",
+                "Strategies": [
+                    "Keep saying 'it will all be over soon'"
+                ]
+            },
+            {
+                "Profile": "Pretzel",
+                "BaseProfile": "Prisoner",
+                "TaxonomicRank": "Genus",
+                "SortOrder": 28,
+                "Description": "The Pretzel is a angry type of Prisoner that sits in the front row with his/arms folded emitting negative energy.",
+                "Strategies": [
+                    "Find areas of passion and interest you have in common",
+                    "Call upon the Pretzel to make funny comments when class is slow"
+                ]
+            },
+            {
+                "Profile": "Turncoat",
+                "BaseProfile": "Prisoner",
+                "TaxonomicRank": "Genus",
+                "SortOrder": 29,
+                "Description": "A type of Prisoner is a big fan of directly competing product or technology that you are teaching about.",
+                "Strategies": [
+                    "Be ready for the Turncoat to be highly critical and nit-picky about the things you will be talking about",
+                    "Ask the Turncoat why he/she came to this class in front of other attendees"
+                ]
+            },
+            {
+                "Profile": "Career-Changer",
+                "BaseProfile": "Teflon",
+                "TaxonomicRank": "Class",
+                "SortOrder": 30,
+                "Description": "A type of Teflon that is looking to make more money and heard that your industry can provide that. Career-Changer is often aggregated together with Sponge.",
+                "Strategies": [
+                    "Recommend a career in real estate or bail bonds"
+                ]
+            },
+            {
+                "Profile": "Surfer",
+                "BaseProfile": "Teflon",
+                "TaxonomicRank": "Class",
+                "SortOrder": 31,
+                "Description": "The surfer never makes eye contact, because he or she is busy surfing the internet. If you are sharp, you can determine if the Surfer is actually a Road Warrior.",
+                "Strategies": [
+                    "Share some of your favorite non-technical Web site URLs",
+                    "Add Surfer to your FaceBook freinds list 2 minutes before you start a lecture."
+                ]
+            },
+            {
+                "Profile": "Red-Flag",
+                "BaseProfile": "Attendee",
+                "TaxonomicRank": "Phylum",
+                "SortOrder": 40,
+                "Description": "A type of attendee that brings potential problems into the class that warrant your attention and will likely disrupt class unless you take action.",
+                "Strategies": [
+                    "Diagnose Red-flad early",
+                    "Take proactive measure to prevent damage to classroom experience"
+                ]
+            },
+            {
+                "Profile": "Fidget",
+                "BaseProfile": "Red-Flag",
+                "TaxonomicRank": "Class",
+                "SortOrder": 41,
+                "Description": "A type of Red-Flag that can`t stay still. The Fidget is constantly shifting, shuffling, and possible loud sighing. You know the chairs are going to get horrible scores.",
+                "Strategies": [
+                    "Replace his/her coffee with decaf"
+                ]
+            },
+            {
+                "Profile": "Mubler",
+                "BaseProfile": "Red-Flag",
+                "TaxonomicRank": "Class",
+                "SortOrder": 42,
+                "Description": "Mumblers are more than just quiet or hard-to-understand students, but they insist on sitting as far from you as possible, possibly next to a noisy piece of equipment and then ask many questions.",
+                "Strategies": [
+                    "Walk right up to mumbler when he/she asks a question"
+                ]
+            },
+            {
+                "Profile": "Story-Teller",
+                "BaseProfile": "Red-Flag",
+                "TaxonomicRank": "Class",
+                "SortOrder": 43,
+                "Description": "A type of Red-flag that has a way of sucking you in. The Story-teller might or might not have a good question or comment, but unfortunately he/she must always preface it with a long diatribe or story.",
+                "Strategies": [
+                    "Cut them off with an abrupt 'and your question is?'"
+                ]
+            },
+            {
+                "Profile": "Spell-Checker",
+                "BaseProfile": "Red-Flag",
+                "TaxonomicRank": "Class",
+                "SortOrder": 44,
+                "Description": "A type of Red-Flag that makes a point to identify all typos and errors of any size or relevance; also known as F7.",
+                "Strategies": [
+                    "Spell-Checker 1"
+                ]
+            },
+            {
+                "Profile": "Blue-Screen",
+                "BaseProfile": "Red-Flag",
+                "TaxonomicRank": "Class",
+                "SortOrder": 45,
+                "Description": "The Blue Screen is the unlucky student who`s computer just locks up or otherwise misbehaves. Everyone in the class pressed F5 on the exact same VPC image and the Blue Screen's computer is the only one that goes up in flames. Usually walking over and standing near the computer fixes the problem.",
+                "Strategies": [
+                    "Blue-Screen 1"
+                ]
+            },
+            {
+                "Profile": "Stalker",
+                "BaseProfile": "Red-Flag",
+                "TaxonomicRank": "Class",
+                "SortOrder": 46,
+                "Description": "A type of Red-Flag who wants your contant attention after lecture stops until lecture resumes; he/she will not let you take breaks, eat lunch, or go to the restroom without following and asking questions or telling stories.",
+                "Strategies": [
+                    "Provide a false email address", 
+                    "Be close to the door when you announce a break so you can make a fast get away", 
+                    "If cornered in a bathroom, say to stalker 'These breaks are for me not you."
+                ]
+            },
+            {
+                "Profile": "Telepath",
+                "BaseProfile": "Red-Flag",
+                "TaxonomicRank": "Class",
+                "SortOrder": 47,
+                "Description": "Telepaths have insight into what the future will bring in the way of new technology, or at least they like to think so. Telepaths may be dinosaurs in disguise.",
+                "Strategies": [
+                    "Telepath 1"
+                ]
+            },
+            {
+                "Profile": "Rain-Man",
+                "BaseProfile": "Red-Flag",
+                "TaxonomicRank": "Class",
+                "SortOrder": 48,
+                "Description": "These students answer questions you asked an hour ago.",
+                "Strategies": [
+                    "Rain-Man 1"
+                ]
+            },
+            {
+                "Profile": "Know-It-All",
+                "BaseProfile": "Red-Flag",
+                "TaxonomicRank": "Class",
+                "SortOrder": 49,
+                "Description": "We`ve all met them; they are already experts in whatever you are explaining, regardless of the subject matter; whether they actually know the material is irrelevant.",
+                "Strategies": [
+                    "Know-It-All 1"
+                ]
+            },
+            {
+                "Profile": "Dinosaur",
+                "BaseProfile": "Know-It-All",
+                "TaxonomicRank": "Genus",
+                "SortOrder": 50,
+                "Description": "A type of Know-It-All but with no modern experience; however, their 20+ years of experience on a dead technology qualifies them as an expert (in their mind). Dinosaur is particularly toxic when aggregated together with Story-Teller.",
+                "Strategies": [
+                    "Dinosaur 1"
+                ]
+            },
+            {
+                "Profile": "Thunder-Stealer",
+                "BaseProfile": "Know-It-All",
+                "TaxonomicRank": "Genus",
+                "SortOrder": 51,
+                "Description": "A type of \"Know-It-All\" or \"Doppleganger\" who steals your punchlines or answers as you are explaining a concept.",
+                "Strategies": [
+                    "Thunder-Stealer 1"
+                ]
+            },
+            {
+                "Profile": "Head-Start",
+                "BaseProfile": "Know-It-All",
+                "TaxonomicRank": "Genus",
+                "SortOrder": 52,
+                "Description": "A type of Know-It-All that constantly keeps you informed of how he/she is already working on the next module or lab excersie even though you have not yet presented on that topic. He/she needs to feel that they have an edge over all other types of Attendee in the class and might leave class early to convey the fact that they \"got it\" before anyone else. It is not overly uncommon for Head-Start to be aggregated together with Day-Planners.",
+                "Strategies": [
+                    "Head-Start 1"
+                ]
+            },
+            {
+                "Profile": "Salesman",
+                "BaseProfile": "Red-Flag",
+                "TaxonomicRank": "Class",
+                "SortOrder": 53,
+                "Description": "The salesman relates all features and capabilities back to their favorite technology; they may be open minded and even persuaded, but not before you hear the pitch a few dozen times; may also qualify as a \"Dinosaur\".",
+                "Strategies": [
+                    "Salesman 1"
+                ]
+            },
+            {
+                "Profile": "Insurgent",
+                "BaseProfile": "Salesman",
+                "TaxonomicRank": "Genus",
+                "SortOrder": 54,
+                "Description": "An Insurgent is a type of salesman, but is completely closed minded, almost on a Jihad to convert other students and the instructor to their way of thinking.",
+                "Strategies": [
+                    "Insurgent 1"
+                ]
+            },
+            {
+                "Profile": "Client",
+                "BaseProfile": "Red-Flag",
+                "TaxonomicRank": "Class",
+                "SortOrder": 55,
+                "Description": "A type of Red-Flag that has somehow confused your training class with his own personal consulting engagement. He/she asks you all kinds of questions about his/her current engagement and attempts to give you 100+ pages of documentation at the end of the first day for you to read overnight so you can get up to speed and be useful.",
+                "Strategies": [
+                    "Client 1"
+                ]
+            },
+            {
+                "Profile": "Angry-Client",
+                "BaseProfile": "Client",
+                "TaxonomicRank": "Genus",
+                "SortOrder": 56,
+                "Description": "A type of Client that begins to get annoyed that you answer questions asked by other types of Attendee and you continue to teach the material advertised for the class even though he/she has made it clear that's not what he/she paid for.",
+                "Strategies": [
+                    "Angry-Client 1"
+                ]
+            },
+            {
+                "Profile": "Really-Angry-Client",
+                "BaseProfile": "Angry-Client",
+                "TaxonomicRank": "Species",
+                "SortOrder": 57,
+                "Description": "A type of Angry-Client that boils over and storms out of the classroom vowing never to hire you as a consultant again.",
+                "Strategies": [
+                    "Really-Angry-Client 1"
+                ]
+            },
+            {
+                "Profile": "Sleeper",
+                "BaseProfile": "Attendee",
+                "TaxonomicRank": "Phylum",
+                "SortOrder": 60,
+                "Description": "This is the attendee type you really need to watch out for. You often figure out they are trouble after it's too late",
+                "Strategies": [
+                    "Sleeper 1"
+                ]
+            },
+            {
+                "Profile": "Doppleganger",
+                "BaseProfile": "Sleeper",
+                "TaxonomicRank": "Class",
+                "SortOrder": 61,
+                "Description": "A type of Sleeper that is not really interested in the material you are teaching. Instead, he/she wants to be an instructor or presenter himself/herself and all of their questions pertain to metadata about the event, you, and your career.",
+                "Strategies": [
+                    "Doppleganger"
+                ]
+            },
+            {
+                "Profile": "Assassin",
+                "BaseProfile": "Sleeper",
+                "TaxonomicRank": "Class",
+                "SortOrder": 62,
+                "Description": "A type of Sleeper that interacts with you throughout class; never complains, actively particpates, and then gives scathing post-class evaluation scores without any text-based comments to provide you with any insight into his/her dissatisfaction. Assassin is particular dangerous and diabolical if he/she can successfully impersonate Buddy.",
+                "Strategies": [
+                    "Assassin 1"
+                ]
+            },
+            {
+                "Profile": "Evil-Genius",
+                "BaseProfile": "Sleeper",
+                "TaxonomicRank": "Class",
+                "SortOrder": 63,
+                "Description": "A type of Sleeper that uses his/her heightened intelligence of the subject for malicious purposes. Keep a watchful eye, because they like to hide among the other students.",
+                "Strategies": [
+                    "Evil-Genius 1"
+                ]
+            }
+        ]
+    }
+}
