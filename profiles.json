@@ -6,7 +6,7 @@
                 "BaseProfile": null,
                 "TaxonomicRank": "Kingdom",
                 "SortOrder": 1,
-                "Description": "A type of human who attends your training class or seminar. \nAttendee is the super type of all attendee design patterns and should be considered the equivalent of other familiar super types such java.lang.Object, System.Object and IUnknown.",
+                "Description": "A type of human who attends your training class or seminar. <br/>Attendee is the super type of all attendee design patterns and should be considered the equivalent of other familiar super types such java.lang.Object, System.Object and IUnknown.",
                 "Strategies": [
                     "Transfer domain-specific knowlege",
                     "Provide insights you have gained from your experience in the field",
