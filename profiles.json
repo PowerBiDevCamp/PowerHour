@@ -6,7 +6,7 @@
                 "BaseProfile": null,
                 "TaxonomicRank": "Kingdom",
                 "SortOrder": 1,
-                "Description": "A type of human who attends your training class or technical seminar. [newline][newline]Attendee serves as the base type for all attendee profiles.",
+                "Description": "A type of human who attends your training class or seminar. [newline][newline]Attendee serves as the base type for all attendee profiles.",
                 "Strategies": [
                     "Transfer domain-specific knowlege",
                     "Provide insights you have gained from your experience in the field",
@@ -18,7 +18,7 @@
                 "BaseProfile": "Attendee",
                 "SortOrder": 10,
                 "TaxonomicRank": "Phylum",
-                "Description": "This is the ideal type of Attendee. [newline] While somewhat subjective, the guidelines for identifying a star are [newline] (1) they participate,[newline] (2) they’re interested in the topic, (3) they finished their labs in a timely fashion, (4) they provide good/great scores, and most importantly is (5) \"they get it\".",
+                "Description": "This is the ideal type of Attendee. While somewhat subjective, these are the guidelines for identifying a star.[newline] (1) They participate[newline] (2) They’re interested in the topic[newline] (3) they finished their labs in a timely fashion[newline] (4) they provide good/great scores, (5) and most importantly is \"they get it\".",
                 "Strategies": [
                     "Make sure to give them positive reinforcement"
                 ]
