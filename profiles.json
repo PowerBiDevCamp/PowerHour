@@ -18,7 +18,7 @@
                 "BaseProfile": "Attendee",
                 "SortOrder": 10,
                 "TaxonomicRank": "Phylum",
-                "Description": "This is the ideal type of Attendee. This can be fairly subjective, but some guidelines for identifying a star: they participate, they are interested in the topic, they finished their labs in a timely fashion, they provide good/great scores, and most importantly is \"they get it\".",
+                "Description": "This is the ideal type of Attendee. While somewhat subjective, the guidelines for identifying a star are (1) they participate, (2) they’re interested in the topic, (3) they finished their labs in a timely fashion, (4) they provide good/great scores, and most importantly is (5) \"they get it\".",
                 "Strategies": [
                     "Make sure to give them positive reinforcement"
                 ]
