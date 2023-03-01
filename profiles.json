@@ -6,7 +6,7 @@
                 "BaseProfile": null,
                 "TaxonomicRank": "Kingdom",
                 "SortOrder": 1,
-                "Description": "A type of human who attends your training class or seminar. [newline][newline]Attendee serves as the base type for all attendee profiles.",
+                "Description": "A type of human who attends your training class or seminar. [newline][newline]Attendee is the common base type for all other attendee profiles.",
                 "Strategies": [
                     "Transfer domain-specific knowlege",
                     "Provide insights you have gained from your experience in the field",
@@ -18,7 +18,7 @@
                 "BaseProfile": "Attendee",
                 "SortOrder": 10,
                 "TaxonomicRank": "Phylum",
-                "Description": "This is the ideal type of Attendee.[newline]Guidelines for identifying a star:[newline] 1. They participate[newline] 2. They’re interested in the topic[newline] 3. They finished their labs in a timely fashion[newline] 4. They provide good/great scores,[newline] 5. and most importantly is \"they get it\".",
+                "Description": "This is the ideal type of Attendee.[newline] * They participate[newline] * They’re interested in the topic[newline] * They finished their labs in a timely fashion[newline] * They provide good/great scores[newline] * They \"get it\" with respect to the topics you are teaching",
                 "Strategies": [
                     "Make sure to give them positive reinforcement"
                 ]
@@ -28,7 +28,7 @@
                 "BaseProfile": "Star",
                 "SortOrder": 11,
                 "TaxonomicRank": "Class",
-                "Description": "A Star with a kindred spirit, and not just with technology[newline]You may connect with him/her/they on various levels throughout the event.[newline]You might even socialize with a buddy.",
+                "Description": "A Star with a kindred spirit, and not just with technology[newline] * You may connect with him/her/they on several different levels[newline] * You might even socialize with a buddy",
                 "Strategies": [
                     "Go to lunch or dinner together",
                     "Trade email addresses"
@@ -39,7 +39,7 @@
                 "BaseProfile": "Star",
                 "TaxonomicRank": "Class",
                 "SortOrder": 12,
-                "Description": "A Star who...[newline] 1. Already knows more than you about the topic you're teaching. 2. Doesn't ask you questions that he/she/they knows you can't answer[newline] 3. Tries his/her/their best to help you grow and learn more during your class[newline] 4. Helps you field tough questions from other students by whispering answers to you",
+                "Description": "A kind Star who knows more than you about the topic you're teaching. [newline] * Doesn't ask you questions that he/she/they knows you can't answer[newline] * Tries his/her/their best to help you grow during the class[newline] * Helps you field tough questions from other students by whispering you answers",
                 "Strategies": [
                     "Acknowlege the mentor's skills to the rest of the class.",
                     "Follow mentor on LinkedIn after class is over"
@@ -50,9 +50,10 @@
                 "BaseProfile": "Star",
                 "TaxonomicRank": "Class",
                 "SortOrder": 13,
-                "Description": "A type of Star that maintains control within the classroom.[newline] 1. He/She/They get up to shut the door when there is noise in the hall[newline] 2. Plays the heavy in the classroom telling other students to be quiet during your lecture",
+                "Description": "A type of Star that maintains control within the classroom.[newline] * He/She/They get up to shut the door when there is noise in the hall[newline] * Plays the heavy in the classroom telling other students to be quiet during lectures",
                 "Strategies": [
-                    "Thanks the Bailiff and provide postive reinforcement."
+                    "Thanks the Bailiff and provide postive reinforcement.",
+                    "On the last day, buy the Bailiff a cup Starbucks coffee or some chewing tabaco as a gift."
                 ]
             },
             {
