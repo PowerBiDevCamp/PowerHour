@@ -125,7 +125,7 @@
                 "BaseProfile": "Teflon",
                 "TaxonomicRank": "Class",
                 "SortOrder": 24,
-                "Description": "A type of Teflon that wants to learn everything about everything and the topic your are teaching is no more important to them than a random show on the Discovery Channel. Their questions are regularly out of scope; note-taking is a common trait. Sponge is commonly aggregated together with Xerox",
+                "Description": "A type of TEFLON that wants to learn everything about everything.[newline][newline] * SPONGE interested in many topics other than what you're teaching[newline] * SPONGE often distracted by random shows on Discovery Channel[newline] * SPONGE questions are regularly out of scope[newline] * SPONGE is very active note taker[newline][newline] * SPONGE commonly aggregated together with XEROX",
                 "Strategies": [
                     "Supply the Sponge with RSS feed URLs for the blogs of Paris Hilton, Brittany Spears and K-Fed"
                 ]
@@ -135,7 +135,7 @@
                 "BaseProfile": "Teflon",
                 "TaxonomicRank": "Class",
                 "SortOrder": 25,
-                "Description": "The Xerox take the time required to perfectly copy all of your drawings and faithfully transcribes your comments with the accuracy of a courtroom stenographer. The Xerox likely will not ever understand what he/she is copying down the act of copying keeps him/her busy and is fulfilling.",
+                "Description": "A TEFLON compelled to faithfully document all comments and drawings.[newline][newline] * XEROX exhibits behavior and accuracy of a courtroom stenographer[newline] * XEROX likely will never understand what is copying down[newline] * XEROX feels the act of copying is fulfilling in and of itself[newline][newline] * XEROX commonly aggregated together with SPONGE",
                 "Strategies": [
                     "Draw diagrams and comments on a peice of paper during a break and give it to the Xerox as a sign of good faith."
                 ]
@@ -145,7 +145,7 @@
                 "BaseProfile": "Teflon",
                 "TaxonomicRank": "Class",
                 "SortOrder": 26,
-                "Description": "The Warden has not come to pick up anything from class but only to make sure that other attendees show up on time and do not leave early. Warden is often found in compositions along with Prisoner.",
+                "Description": "A TEFLON who attends class only to ensure attendence of others.[newline][newline] * WARDEN has not come to pick up anything from class[newline] * WARDEN there to ensure other attendees show up on time[newline] * WARDEN stays until class ends to ensure other attendees don't leave early[newline][newline] * WARDEN often found in compositions with PRISONER.",
                 "Strategies": [
                     "Make small talk but do not engage in serious conversation."
                 ]
@@ -155,7 +155,7 @@
                 "BaseProfile": "Teflon",
                 "TaxonomicRank": "Class",
                 "SortOrder": 27,
-                "Description": "The Prisoner was somehow made to attend your class against his/her will. A prisoner will not actively participate and or even pretend to have any interest in the topics for are teaching.",
+                "Description": "A TEFLON that has been forced involuntarily to attend your class.[newline][newline] * PRISONER will not actively participate nor pretend to have any interest[newline] * PRISONER waits patiently for prison sentance to end[newline] * PRISONER often spends lab time Googling 'human rights violations'[newline][newline] * PRISONER often found in compositions with WARDEN",
                 "Strategies": [
                     "Keep saying 'it will all be over soon'"
                 ]
@@ -165,42 +165,10 @@
                 "BaseProfile": "Prisoner",
                 "TaxonomicRank": "Genus",
                 "SortOrder": 28,
-                "Description": "The Pretzel is a angry type of Prisoner that sits in the front row with his/arms folded emitting negative energy.",
+                "Description": "An agitated PRISONER with folded arms emitting negative energy.",
                 "Strategies": [
                     "Find areas of passion and interest you have in common",
                     "Call upon the Pretzel to make funny comments when class is slow"
-                ]
-            },
-            {
-                "Profile": "Turncoat",
-                "BaseProfile": "Prisoner",
-                "TaxonomicRank": "Genus",
-                "SortOrder": 29,
-                "Description": "A type of Prisoner is a big fan of directly competing product or technology that you are teaching about.",
-                "Strategies": [
-                    "Be ready for the Turncoat to be highly critical and nit-picky about the things you will be talking about",
-                    "Ask the Turncoat why he/she came to this class in front of other attendees"
-                ]
-            },
-            {
-                "Profile": "Career-Changer",
-                "BaseProfile": "Teflon",
-                "TaxonomicRank": "Class",
-                "SortOrder": 30,
-                "Description": "A type of Teflon that is looking to make more money and heard that your industry can provide that. Career-Changer is often aggregated together with Sponge.",
-                "Strategies": [
-                    "Recommend a career in real estate or bail bonds"
-                ]
-            },
-            {
-                "Profile": "Surfer",
-                "BaseProfile": "Teflon",
-                "TaxonomicRank": "Class",
-                "SortOrder": 31,
-                "Description": "The surfer never makes eye contact, because he or she is busy surfing the internet. If you are sharp, you can determine if the Surfer is actually a Road Warrior.",
-                "Strategies": [
-                    "Share some of your favorite non-technical Web site URLs",
-                    "Add Surfer to your FaceBook freinds list 2 minutes before you start a lecture."
                 ]
             },
             {
