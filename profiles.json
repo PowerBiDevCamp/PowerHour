@@ -104,7 +104,7 @@
                 "BaseProfile": "Teflon",
                 "TaxonomicRank": "Class",
                 "SortOrder": 22,
-                "Description": "A type of TEFLON sucked in by mobile device not aware of surroundings.[newline][newline] * PHONE-GHOST can't pull eyes away from iPhone for more than 3 seconds[newline] * PHONE-GHOST can't see anything not posted to Instagram[newline] * PHONE-GHOST evaluation after class based on your number of followers",
+                "Description": "A type of TEFLON sucked in by mobile device not aware of surroundings.[newline][newline] * PHONE-GHOST can't pull eyes away from iPhone for more than 3 seconds[newline] * PHONE-GHOST lacks interest in anything unless it's posted to Instagram[newline] * PHONE-GHOST evaluation after class based on your number of followers",
                 "Strategies": [
                     "Do not compromize your professionalism",
                     "Pretend the Flirt is an over-weight, elderly person of a gender you are not attracted to."
@@ -165,7 +165,7 @@
                 "BaseProfile": "Prisoner",
                 "TaxonomicRank": "Genus",
                 "SortOrder": 28,
-                "Description": "An agitated PRISONER with folded arms emitting negative energy.",
+                "Description": "An agitated PRISONER with folded arms emitting negative energy.[newline][newline] * PRETZEL is very unhappy and wants everyone to know[newline] * PRETZEL will give WARDEN the evil eye",
                 "Strategies": [
                     "Find areas of passion and interest you have in common",
                     "Call upon the Pretzel to make funny comments when class is slow"
@@ -176,9 +176,9 @@
                 "BaseProfile": "Attendee",
                 "TaxonomicRank": "Phylum",
                 "SortOrder": 40,
-                "Description": "A type of attendee that brings potential problems into the class that warrant your attention and will likely disrupt class unless you take action.",
+                "Description": "An ATTENDEE type with potential to compromise the experience for others.[newline][newline] * RED-FLAG warrants your attention[newline] * RED-FLAG will likely disrupt class unless you take action[newline] * RED-FLAG can be disarmed by following disciplined strategies",
                 "Strategies": [
-                    "Diagnose Red-flad early",
+                    "Diagnose all Red-flags in class as early as possible",
                     "Take proactive measure to prevent damage to classroom experience"
                 ]
             },
