@@ -111,10 +111,20 @@
                 ]
             },
             {
-                "Profile": "Day-Planner",
+                "Profile": "Xerox",
                 "BaseProfile": "Teflon",
                 "TaxonomicRank": "Class",
                 "SortOrder": 23,
+                "Description": "A TEFLON compelled to faithfully document all comments and drawings.[separator] * XEROX exhibits behavior and accuracy of a courtroom stenographer[newline] * XEROX likely will never understand what is copying down[newline] * XEROX feels the act of copying is fulfilling in and of itself[separator] * XEROX commonly aggregated together with SPONGE",
+                "Strategies": [
+                    "Draw diagrams and comments on a peice of paper during a break and give it to the Xerox as a sign of good faith."
+                ]
+            },
+            {
+                "Profile": "Day-Planner",
+                "BaseProfile": "Teflon",
+                "TaxonomicRank": "Class",
+                "SortOrder": 24,
                 "Description": "A type of TEFLON that needs to know exact timing of your class schedule[separator] * DAY-PLANNER asks for lunch and breaktimes for entire week[newline] * DAY-PLANNER also goes by the name of FRANKLIN",
                 "Strategies": [
                     "Give the Day-Planner your best estimate but do not make any promises"
@@ -124,22 +134,12 @@
                 "Profile": "Sponge",
                 "BaseProfile": "Teflon",
                 "TaxonomicRank": "Class",
-                "SortOrder": 24,
+                "SortOrder": 25,
                 "Description": "A type of TEFLON that wants to learn everything about everything.[separator] * SPONGE interested in many topics other than what you're teaching[newline] * SPONGE often distracted by random shows on Discovery Channel[newline] * SPONGE questions are regularly out of scope[newline] * SPONGE is very active note taker[separator] * SPONGE commonly aggregated together with XEROX",
                 "Strategies": [
                     "Supply the Sponge with RSS feed URLs for the blogs of Paris Hilton, Brittany Spears and K-Fed"
                 ]
-            },
-            {
-                "Profile": "Xerox",
-                "BaseProfile": "Teflon",
-                "TaxonomicRank": "Class",
-                "SortOrder": 25,
-                "Description": "A TEFLON compelled to faithfully document all comments and drawings.[separator] * XEROX exhibits behavior and accuracy of a courtroom stenographer[newline] * XEROX likely will never understand what is copying down[newline] * XEROX feels the act of copying is fulfilling in and of itself[separator] * XEROX commonly aggregated together with SPONGE",
-                "Strategies": [
-                    "Draw diagrams and comments on a peice of paper during a break and give it to the Xerox as a sign of good faith."
-                ]
-            },
+            },       
             {
                 "Profile": "Warden",
                 "BaseProfile": "Teflon",
@@ -187,7 +187,7 @@
                 "BaseProfile": "Red-Flag",
                 "TaxonomicRank": "Class",
                 "SortOrder": 43,
-                "Description": "A RED-FLAG that raises had to ask question and then tells story instead The Story-teller might or might not have a good question or comment, but unfortunately he/she must always preface it with a long diatribe or story.",
+                "Description": "A RED-FLAG that raises hand to ask question and then tells a story instead.[separator] * STORY-TELLER is in love with sound of his/her/their own voice[newline]* STORY-TELLER will go into long, rambling diatribes if unchecked[newline]* STORY-TELLER often causes other attendees to roll their eyes",
                 "Strategies": [
                     "Cut them off with an abrupt 'and your question is?'"
                 ]
@@ -197,7 +197,7 @@
                 "BaseProfile": "Red-Flag",
                 "TaxonomicRank": "Class",
                 "SortOrder": 44,
-                "Description": "A type of Red-Flag that makes a point to identify all typos and errors of any size or relevance; also known as F7.",
+                "Description": "A RED-FLAG that lets you know about any typo or error no matter how small[separator] * SPELL-CHECKER will call out your inconsistent use of fonts and styles[newline] * SPELL-CHECKER never works on labs due to time spent hunting problems",
                 "Strategies": [
                     "Spell-Checker 1"
                 ]
