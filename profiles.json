@@ -93,18 +93,18 @@
                 "BaseProfile": "Teflon",
                 "TaxonomicRank": "Class",
                 "SortOrder": 21,
-                "Description": "A type of TEFLON just there for free food, beverages and raffle prizes.",
+                "Description": "A type of TEFLON just there for free food, beverages and raffle prizes.[newline][newline] * MUFFIN-EATER isn't at all interested in what you're teaching[newline] * MUFFIN-EATER often leaves classroom during lectures",
                 "Strategies": [
                     "Post a sign next to breakfast platter indicating one muffin per attendee",
                     "Don't leave your sandwich in lunch room refridgerator"
                 ]
             },
             {
-                "Profile": "Flirt",
+                "Profile": "Phone-Ghost",
                 "BaseProfile": "Teflon",
                 "TaxonomicRank": "Class",
                 "SortOrder": 22,
-                "Description": "A type of Teflon that is constantly seeking your attention during lecture. He/she/they may do things to try to distract you while you are presenting.",
+                "Description": "A type of TEFLON sucked in by mobile device not aware of surroundings.[newline][newline] * PHONE-GHOST can't pull eyes away from iPhone for more than 3 seconds[newline] * PHONE-GHOST can't see anything not posted to Instagram[newline] * PHONE-GHOST evaluation after class based on your number of followers",
                 "Strategies": [
                     "Do not compromize your professionalism",
                     "Pretend the Flirt is an over-weight, elderly person of a gender you are not attracted to."
@@ -115,7 +115,7 @@
                 "BaseProfile": "Teflon",
                 "TaxonomicRank": "Class",
                 "SortOrder": 23,
-                "Description": "A type of Teflon that needs to know exactly when class will start and end each day, including all breaks and lunch for the entire week. The Day-Panner also goes by the name of Franklin.",
+                "Description": "A type of TEFLON that needs to know exact timing of your class schedule[newline][newline] * DAY-PLANNER asks for lunch and breaktimes for entire week[newline] * DAY-PLANNER also goes by the name of FRANKLIN",
                 "Strategies": [
                     "Give the Day-Planner your best estimate but do not make any promises"
                 ]
