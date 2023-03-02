@@ -6,7 +6,7 @@
                 "BaseProfile": null,
                 "TaxonomicRank": "Kingdom",
                 "SortOrder": 1,
-                "Description": "A type of human who attends your training class or seminar. [newline][newline]Attendee is the common base type for all other attendee profiles.",
+                "Description": "A type of HUMAN who attends your training class or seminar. [newline][newline] * ATTENDEE represents common base type for all other attendee profiles.",
                 "Strategies": [
                     "Transfer domain-specific knowlege",
                     "Provide insights you have gained from your experience in the field",
@@ -18,7 +18,7 @@
                 "BaseProfile": "Attendee",
                 "SortOrder": 10,
                 "TaxonomicRank": "Phylum",
-                "Description": "This is the ideal type of ATTENDEE you want in your classes.[newline][newline]* They participate[newline] * They’re interested in the topic[newline] * They finished their labs in a timely fashion[newline] * They provide good/great scores[newline] * They \"get it\" with respect to the topics you are teaching",
+                "Description": "The ideal type of ATTENDEE you want in your training classes.[newline][newline]* They participate[newline] * They’re interested in the topic[newline] * They finished their labs in a timely fashion[newline] * They provide good/great scores[newline] * They \"get it\" with respect to the topics you are teaching",
                 "Strategies": [
                     "Make sure to give them positive reinforcement"
                 ]
@@ -28,7 +28,7 @@
                 "BaseProfile": "Star",
                 "SortOrder": 11,
                 "TaxonomicRank": "Class",
-                "Description": "A STAR with a kindred spirit with which you share more than technology[newline]* You may connect with him/her/they on several different levels[newline] * You might even socialize with a buddy",
+                "Description": "A STAR with a kindred spirit with which you share more than technology.[newline][newline]* You may connect with a BUDDY on several different levels[newline] * You might even socialize with a BUDDY",
                 "Strategies": [
                     "Go to lunch or dinner together",
                     "Trade email addresses"
@@ -39,7 +39,7 @@
                 "BaseProfile": "Star",
                 "TaxonomicRank": "Class",
                 "SortOrder": 12,
-                "Description": "A kind-hearted STAR who knows more than you about the topic you're teaching. [newline] * Doesn't ask you questions that he/she/they knows you can't answer[newline] * Tries his/her/their best to help you grow during the class[newline] * Helps you field tough questions from other students by whispering you answers",
+                "Description": "A kind STAR who knows far more than you about the topic you're teaching.[newline][newline] * MENTOR knows not to ask you questions you can't answer[newline] * MENTOR helps you to learn and grow during the class[newline] * MENTOR helps you field questions by whispering answers to you",
                 "Strategies": [
                     "Acknowlege the mentor's skills to the rest of the class.",
                     "Follow mentor on LinkedIn after class is over"
@@ -50,7 +50,7 @@
                 "BaseProfile": "Star",
                 "TaxonomicRank": "Class",
                 "SortOrder": 13,
-                "Description": "A community-minded STAR that maintains control within the classroom.[newline] * He/She/They get up to shut the door when there is noise in the hall[newline] * Plays the heavy in the classroom telling other students to be quiet during lectures",
+                "Description": "A community-minded STAR that maintains control within the classroom.[newline][newline] * BAILIFF gets up to shut the door when there is noise in the hall[newline] * BAILIFF plays the heavy and tells other students not to talk during lectures",
                 "Strategies": [
                     "Thanks the Bailiff and provide postive reinforcement.",
                     "On the last day, buy the Bailiff a cup Starbucks coffee or some chewing tabaco as a gift."
@@ -61,7 +61,7 @@
                 "BaseProfile": "Star",
                 "TaxonomicRank": "Class",
                 "SortOrder": 14,
-                "Description": "A STAR committed to helping every attendee succeed[newline] * He/She/They instantly learns what you're teaching[newline] * He/She/They spends time helping other students who get lost or stuck",
+                "Description": "A charity-driven STAR committed to helping all attendees succeed[newline][newline] * MOTHER-TERISA quickly absorts every topic you cover in your class[newline] * MOTHER-TERISA uses new-found knowledge to begin teaching others[newline] * MOTHER-TERISA often spends time helping others who get lost or stuck",
                 "Strategies": [
                     "Point Mother-Terisa to your favorite Power BI community projects"
                 ]
@@ -71,7 +71,7 @@
                 "BaseProfile": "Star",
                 "TaxonomicRank": "Class",
                 "SortOrder": 15,
-                "Description": "A high-octane STAR with amazing multitasking skills[newline] * He/She/They is able to absorb all the material you are presenting[newline] * Road-Warrior is simultaneously completing demanding workload his/her/their job requires[newline] * Often found in the last row of the classroom with VPN connection[newline] * Average Road-Warrior can bill enough hours to pay for your training class and T&E[newline] * Advanced Road-Warrior can bill for consulting on the same topics you're teaching",
+                "Description": "A high-octane STAR with amazing multi-tasking skills[newline][newline] * ROAD-WARRIOR instantly absorbs all information from your lectures[newline] * ROAD-WARRIOR simultaneously working on multiple customer projects[newline] * ROAD-WARRIOR often found in the last row with VPN connection[newline] * ROAD-WARRIOR often bills customers for consulting hours during class[newline] * ROAD-WARRIOR can bill enough hours to pay for class tuition and T&E[newline] * ROAD-WARRIOR might even bill for hours on same topic you're teaching",
                 "Strategies": [
                     "Make sure Road-Warrior has an fast Internet connection",
                     "Study and reuse Road-Warrior's time management skills"
@@ -82,7 +82,7 @@
                 "BaseProfile": "Attendee",
                 "TaxonomicRank": "Phylum",
                 "SortOrder": 20,
-                "Description": "A type of Attendee that will not pick up anything from your class. No matter how hard you try, you will not be able to get your points across to a Teflon nor will he/she leave the class being able to understand any of the concepts or techniques that you have taught.",
+                "Description": "A type of ATTENDEE unable to absorb or understand technical content.[newline][newline] * TEFLON understands buisness problems but not technical problems[newline] * TEFLON lacks any ability to grasp essential technical concepts[newline] *  Repeating yourself and explaining things in a different way will not help",
                 "Strategies": [
                     "Do waste too much time trying to reach a Teflon",
                     "Redirect efforts to assist other attendees"
@@ -93,9 +93,10 @@
                 "BaseProfile": "Teflon",
                 "TaxonomicRank": "Class",
                 "SortOrder": 21,
-                "Description": "A type of Teflon that is there just for the free food, beverages, or raffle prizes.",
+                "Description": "A type of TEFLON just there for free food, beverages and raffle prizes.",
                 "Strategies": [
-                    "Post a sign next to breakfast platter indicating one muffin per attendee"
+                    "Post a sign next to breakfast platter indicating one muffin per attendee",
+                    "Don't leave your sandwich in lunch room refridgerator"
                 ]
             },
             {
