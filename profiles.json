@@ -183,7 +183,7 @@
                 ]
             },
             {
-                "Profile": "Story-Teller",
+                "Profile": "STORY-TELLER",
                 "BaseProfile": "RED-FLAG",
                 "TaxonomicRank": "Class",
                 "SortOrder": 43,
@@ -213,11 +213,11 @@
                 ]
             },
             {
-                "Profile": "Stalker",
+                "Profile": "STALKER",
                 "BaseProfile": "RED-FLAG",
                 "TaxonomicRank": "Class",
                 "SortOrder": 46,
-                "Description": "A RED-FLAG that wants your full & complete attention between lectures.[separator] * STALKER sssss[newline] * STALKER sssss he/she will not let you take breaks, eat lunch, or go to the restroom without following and asking questions or telling stories.",
+                "Description": "A RED-FLAG that will never leave you alone in between lectures.[separator] * STALKER will walk right up to you the second the lecture is done[newline] * STALKER frequently suffers from CLOSE-TALKER syndrone[newline] * STALKER will follow you into the bathroom and continue asking questions[newline] * STALKER is very interested in getting your phone number and email",
                 "Strategies": [
                     "Provide a false email address", 
                     "Be close to the door when you announce a break so you can make a fast get away", 
@@ -229,7 +229,7 @@
                 "BaseProfile": "RED-FLAG",
                 "TaxonomicRank": "Class",
                 "SortOrder": 49,
-                "Description": "We`ve all met them; they are already experts in whatever you are explaining, regardless of the subject matter; whether they actually know the material is irrelevant.",
+                "Description": "A RED-FLAG who already knows eveything about everything[separator]* KNOW-IT-ALL is expert on all topics, especially what you're teaching[newline]* KNOW-IT-ALL pretends to have been omnicient since birth[newline]* KNOW-IT-ALL can't admit to learning - it contracts being omnicient",
                 "Strategies": [
                     "Know-It-All 1"
                 ]
@@ -239,7 +239,7 @@
                 "BaseProfile": "KNOW-IT-ALL",
                 "TaxonomicRank": "Genus",
                 "SortOrder": 50,
-                "Description": "A type of Know-It-All but with no modern experience; however, their 20+ years of experience on a dead technology qualifies them as an expert (in their mind). Dinosaur is particularly toxic when aggregated together with Story-Teller.",
+                "Description": "A KNOW-IT-ALL with no modern experience.[separator] * DINOSAUR has 20+ years experiences in dead technologies[newline] * DINOSAUR is only type of ATTENDEE who will cheer for IUnknown[newline]* DINOSAUR particularily toxic when agregatted with STORY-TELLER",
                 "Strategies": [
                     "Dinosaur 1"
                 ]
@@ -249,7 +249,7 @@
                 "BaseProfile": "RED-FLAG",
                 "TaxonomicRank": "Class",
                 "SortOrder": 53,
-                "Description": "The salesman relates all features and capabilities back to their favorite technology; they may be open minded and even persuaded, but not before you hear the pitch a few dozen times; may also qualify as a \"Dinosaur\".",
+                "Description": "A RED-FLAG promoting the product that competes with what you're teching.[separator] * SALESMAN xxxx[newline] * SALESMAN xxxxx [newline] relates all features and capabilities back to their favorite technology; they may be open minded and even persuaded, but not before you hear the pitch a few dozen times; may also qualify as a \"Dinosaur\".",
                 "Strategies": [
                     "Salesman 1"
                 ]
