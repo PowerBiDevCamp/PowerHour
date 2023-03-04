@@ -115,7 +115,7 @@
                 "BaseProfile": "TEFLON",
                 "TaxonomicRank": "Class",
                 "SortOrder": 23,
-                "Description": "A TEFLON compelled to faithfully document all comments and drawings.[separator] * XEROX exhibits behavior and accuracy of a courtroom stenographer[newline] * XEROX likely will never understand what is copying down[newline] * XEROX feels the act of copying is fulfilling in and of itself[separator] * XEROX commonly aggregated together with SPONGE",
+                "Description": "A TEFLON compelled to faithfully document all comments and drawings.[separator] * XEROX exhibits behavior and accuracy of a courtroom stenographer[newline] * XEROX likely will never understand what is copying down[newline] * XEROX feels the act of copying is fulfilling in and of itself",
                 "Strategies": [
                     "Draw diagrams and comments on a peice of paper during a break and give it to the Xerox as a sign of good faith."
                 ]
@@ -135,7 +135,7 @@
                 "BaseProfile": "TEFLON",
                 "TaxonomicRank": "Class",
                 "SortOrder": 25,
-                "Description": "A type of TEFLON that wants to learn everything about everything.[separator] * SPONGE interested in many topics other than what you're teaching[newline] * SPONGE often distracted by random shows on Discovery Channel[newline] * SPONGE questions are regularly out of scope[newline] * SPONGE is very active note taker[separator] * SPONGE commonly aggregated together with XEROX",
+                "Description": "A type of TEFLON that wants to learn everything about everything.[separator] * SPONGE interested in many topics other than what you're teaching[newline] * SPONGE often distracted by random shows on Discovery Channel[newline] * SPONGE questions are regularly out of scope[newline] * SPONGE is very active note taker[newline] * SPONGE commonly aggregated together with XEROX",
                 "Strategies": [
                     "Supply the Sponge with RSS feed URLs for the blogs of Paris Hilton, Brittany Spears and K-Fed"
                 ]
@@ -259,7 +259,7 @@
                 "BaseProfile": "SALESMAN",
                 "TaxonomicRank": "Genus",
                 "SortOrder": 54,
-                "Description": "Closed-minded SALESMAN vehemently opposing technology you're teaching[separator] * INSURGENT waits until you leave room to talk to other attendees[newline] * INSURGENT tells other attendees your lectures are one big lie[newline] * INSURGENT attempts to bring othesr to their way of thinking[newline] * INSURGENT says 'Power BI Sucks - Tableau's better, faster and cheaper'",
+                "Description": "Closed-minded SALESMAN vehemently opposing technology you're teaching[separator] * INSURGENT waits until you leave room to talk to other attendees[newline] * INSURGENT tells other attendees your lectures are one big lie[newline] * INSURGENT constantly attempting to bring others to their way of thinking[newline] * INSURGENT says Power BI Sucks - Tableau will always be faster & cheaper",
                 "Strategies": [
                     "Insurgent 1"
                 ]
@@ -309,7 +309,7 @@
                 "BaseProfile": "SLEEPER",
                 "TaxonomicRank": "Class",
                 "SortOrder": 61,
-                "Description": "A SLEEPER thats wants to take your place and steal your identity.[separator] * DOPPLEGANGER not really interested in the material you're teaching[newline] * DOPPLEGANGER only asks questions about event, you, and your career[newline] * DOPPLEGANGER asks 'How much money do you make as a trainer?'[newline] * DOPPLEGANGER will frequently walk behind to see what's on your screen",
+                "Description": "A SLEEPER thats wants to take your place and steal your identity.[separator] * DOPPLEGANGER not at all interested in the material you're teaching[newline] * DOPPLEGANGER only asks questions about you, your career and contacts[newline] * DOPPLEGANGER asks 'How much money do you make as a trainer?'[newline] * DOPPLEGANGER will frequently walk behind to see what's on your screen",
                 "Strategies": [
                     "Doppleganger"
                 ]
@@ -319,7 +319,7 @@
                 "BaseProfile": "SLEEPER",
                 "TaxonomicRank": "Class",
                 "SortOrder": 62,
-                "Description": "A SLEEPER that appears to be a STAR until they score your evalution[separator] * ASSASSIN never complains or suggests anything is wrong[newline] * ASSASSIN actively particpates in classroom discussion[newline] * ASSASSIN scores you with a 1-out-of-5 in every evaluation category[newline] * ASSASSIN never leaves text comments to explain severe dissatisfaction[newline] * ASSASSIN particularly diabolical when successfully impersonating BUDDY",
+                "Description": "A SLEEPER that appears to be a STAR until you see his/her/their evalution[separator] * ASSASSIN never complains or suggests anything is wrong[newline] * ASSASSIN actively particpates in classroom discussion[newline] * ASSASSIN scores you with a 1-out-of-5 in every evaluation category[newline] * ASSASSIN never leaves text comments to explain severe dissatisfaction[newline] * ASSASSIN particularly diabolical when successfully impersonating BUDDY",
                 "Strategies": [
                     "Assassin 1"
                 ]
@@ -329,7 +329,7 @@
                 "BaseProfile": "SLEEPER",
                 "TaxonomicRank": "Class",
                 "SortOrder": 63,
-                "Description": "A SLEEPER that likes to showcase his/her/their heightened intelligence.[separator] * BIG-BRAIN-BULLY suffers from SMARTEST-GUY-IN-THE-ROOM syndrone[newline] *  BIG-BRAIN-BULLY constantly correcting what you say during lecture[newline] * BIG-BRAIN-BULLY has potential to compromise your technical integrity",
+                "Description": "A SLEEPER that likes to showcase his/her/their heightened intelligence.[separator] * BIG-BRAIN-BULLY suffers from SMARTEST-GUY-IN-THE-ROOM syndrone[newline] *  BIG-BRAIN-BULLY constantly correcting everything you say during lecture[newline] * BIG-BRAIN-BULLY has potential to compromise your technical integrity",
                 "Strategies": [
                     "dickily dooly 1"
                 ]
