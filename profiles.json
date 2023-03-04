@@ -2,7 +2,7 @@
     "AttendeeTypes": {
         "AttendeeType": [
             {
-                "Profile": "Attendee",
+                "Profile": "ATTENDEE",
                 "BaseProfile": null,
                 "TaxonomicRank": "Kingdom",
                 "SortOrder": 1,
@@ -14,8 +14,8 @@
                 ]
             },
             {
-                "Profile": "Star",
-                "BaseProfile": "Attendee",
+                "Profile": "STAR",
+                "BaseProfile": "ATTENDEE",
                 "SortOrder": 10,
                 "TaxonomicRank": "Phylum",
                 "Description": "The ideal type of ATTENDEE you want in your training classes.[separator]* They participate[newline] * They’re interested in the topic[newline] * They finished their labs in a timely fashion[newline] * They provide good/great scores[newline] * They \"get it\" with respect to the topics you are teaching",
@@ -24,8 +24,8 @@
                 ]
             },
             {
-                "Profile": "Buddy",
-                "BaseProfile": "Star",
+                "Profile": "BUDDY",
+                "BaseProfile": "STAR",
                 "SortOrder": 11,
                 "TaxonomicRank": "Class",
                 "Description": "A STAR with a kindred spirit with which you share more than technology.[separator]* You may connect with a BUDDY on several different levels[newline] * You might even socialize with a BUDDY",
@@ -35,8 +35,8 @@
                 ]
             },
             {
-                "Profile": "Mentor",
-                "BaseProfile": "Star",
+                "Profile": "MENTOR",
+                "BaseProfile": "STAR",
                 "TaxonomicRank": "Class",
                 "SortOrder": 12,
                 "Description": "A kind STAR who knows far more than you about the topic you're teaching.[separator] * MENTOR knows not to ask you questions you can't answer[newline] * MENTOR helps you to learn and grow during the class[newline] * MENTOR helps you field questions by whispering answers to you",
@@ -46,8 +46,8 @@
                 ]
             },
             {
-                "Profile": "Bailiff",
-                "BaseProfile": "Star",
+                "Profile": "BAILIFF",
+                "BaseProfile": "STAR",
                 "TaxonomicRank": "Class",
                 "SortOrder": 13,
                 "Description": "A community-minded STAR that maintains control within the classroom.[separator] * BAILIFF gets up to shut the door when there is noise in the hall[newline] * BAILIFF plays the heavy by telling others to be quiet during your lectures",
@@ -57,8 +57,8 @@
                 ]
             },
             {
-                "Profile": "Mother-Terisa",
-                "BaseProfile": "Star",
+                "Profile": "MOTHER-TERISA",
+                "BaseProfile": "STAR",
                 "TaxonomicRank": "Class",
                 "SortOrder": 14,
                 "Description": "A charity-driven STAR committed to helping all attendees succeed[separator] * MOTHER-TERISA quickly absorts every topic you cover in your class[newline] * MOTHER-TERISA uses new-found knowledge to begin teaching others[newline] * MOTHER-TERISA often spends time helping others who get lost or stuck",
@@ -67,8 +67,8 @@
                 ]
             },
             {
-                "Profile": "Road-Warrior",
-                "BaseProfile": "Star",
+                "Profile": "ROAD-WARRIOR",
+                "BaseProfile": "STAR",
                 "TaxonomicRank": "Class",
                 "SortOrder": 15,
                 "Description": "A high-octane STAR with amazing multi-tasking skills[separator] * ROAD-WARRIOR instantly absorbs all information from your lectures[newline] * ROAD-WARRIOR simultaneously working on multiple customer projects[newline] * ROAD-WARRIOR often found in the last row with VPN connection[newline] * ROAD-WARRIOR often bills customers for consulting hours during class[newline] * ROAD-WARRIOR can bill enough hours to pay for class tuition and T&E[newline] * ROAD-WARRIOR might even bill for hours on same topic you're teaching",
@@ -78,8 +78,8 @@
                 ]
             },
             {
-                "Profile": "Teflon",
-                "BaseProfile": "Attendee",
+                "Profile": "TEFLON",
+                "BaseProfile": "ATTENDEE",
                 "TaxonomicRank": "Phylum",
                 "SortOrder": 20,
                 "Description": "A type of ATTENDEE unable to absorb or understand technical content.[separator] * TEFLON understands buisness problems but not technical problems[newline] * TEFLON lacks any ability to grasp essential technical concepts[newline] *  Repeating yourself and explaining things in a different way will not help",
@@ -89,8 +89,8 @@
                 ]
             },
             {
-                "Profile": "Muffin-Eater",
-                "BaseProfile": "Teflon",
+                "Profile": "MUFFIN-EATER",
+                "BaseProfile": "TEFLON",
                 "TaxonomicRank": "Class",
                 "SortOrder": 21,
                 "Description": "A type of TEFLON just there for free food, beverages and raffle prizes.[separator] * MUFFIN-EATER isn't at all interested in what you're teaching[newline] * MUFFIN-EATER often leaves classroom during lectures",
@@ -100,8 +100,8 @@
                 ]
             },
             {
-                "Profile": "Phone-Hostage",
-                "BaseProfile": "Teflon",
+                "Profile": "PHONE-HOSTAGE",
+                "BaseProfile": "TEFLON",
                 "TaxonomicRank": "Class",
                 "SortOrder": 22,
                 "Description": "A type of TEFLON sucked in by mobile device and unaware of surroundings.[separator] * PHONE-HOSTAGE can't take eyes off iPhone for more than 3 seconds[newline] * PHONE-HOSTAGE lacks interest in anything not posted to Instagram[newline] * PHONE-HOSTAGE evaluation scores based on your number of followers",
@@ -111,8 +111,8 @@
                 ]
             },
             {
-                "Profile": "Xerox",
-                "BaseProfile": "Teflon",
+                "Profile": "XEROX",
+                "BaseProfile": "TEFLON",
                 "TaxonomicRank": "Class",
                 "SortOrder": 23,
                 "Description": "A TEFLON compelled to faithfully document all comments and drawings.[separator] * XEROX exhibits behavior and accuracy of a courtroom stenographer[newline] * XEROX likely will never understand what is copying down[newline] * XEROX feels the act of copying is fulfilling in and of itself[separator] * XEROX commonly aggregated together with SPONGE",
@@ -121,8 +121,8 @@
                 ]
             },
             {
-                "Profile": "Day-Planner",
-                "BaseProfile": "Teflon",
+                "Profile": "DAY-PLANNER",
+                "BaseProfile": "TEFLON",
                 "TaxonomicRank": "Class",
                 "SortOrder": 24,
                 "Description": "A type of TEFLON that needs to know exact timing of your class schedule[separator] * DAY-PLANNER asks for lunch and breaktimes for entire week[newline] * DAY-PLANNER also goes by the name of FRANKLIN",
@@ -131,8 +131,8 @@
                 ]
             },
             {
-                "Profile": "Sponge",
-                "BaseProfile": "Teflon",
+                "Profile": "SPONGE",
+                "BaseProfile": "TEFLON",
                 "TaxonomicRank": "Class",
                 "SortOrder": 25,
                 "Description": "A type of TEFLON that wants to learn everything about everything.[separator] * SPONGE interested in many topics other than what you're teaching[newline] * SPONGE often distracted by random shows on Discovery Channel[newline] * SPONGE questions are regularly out of scope[newline] * SPONGE is very active note taker[separator] * SPONGE commonly aggregated together with XEROX",
@@ -141,8 +141,8 @@
                 ]
             },       
             {
-                "Profile": "Warden",
-                "BaseProfile": "Teflon",
+                "Profile": "WARDEN",
+                "BaseProfile": "TEFLON",
                 "TaxonomicRank": "Class",
                 "SortOrder": 26,
                 "Description": "A TEFLON who attends class only to ensure attendence of others.[separator] * WARDEN has not come to pick up anything from class[newline] * WARDEN there to ensure other attendees show up on time[newline] * WARDEN stays until class ends to ensure other attendees don't leave early[separator] * WARDEN often found in compositions with PRISONER.",
@@ -151,8 +151,8 @@
                 ]
             },
             {
-                "Profile": "Prisoner",
-                "BaseProfile": "Teflon",
+                "Profile": "PRISONER",
+                "BaseProfile": "TEFLON",
                 "TaxonomicRank": "Class",
                 "SortOrder": 27,
                 "Description": "A TEFLON that has been forced involuntarily to attend your class.[separator] * PRISONER will not actively participate nor pretend to have any interest[newline] * PRISONER waits patiently for prison sentance to end[newline] * PRISONER often spends lab time Googling 'human rights violations'[separator] * PRISONER often found in compositions with WARDEN",
@@ -161,8 +161,8 @@
                 ]
             },
             {
-                "Profile": "Pretzel",
-                "BaseProfile": "Prisoner",
+                "Profile": "PRETZEL",
+                "BaseProfile": "PRISONER",
                 "TaxonomicRank": "Genus",
                 "SortOrder": 28,
                 "Description": "An agitated PRISONER with folded arms emitting negative energy.[separator] * PRETZEL is very unhappy and wants everyone to know[newline] * PRETZEL will give WARDEN the evil eye",
@@ -172,8 +172,8 @@
                 ]
             },
             {
-                "Profile": "Red-Flag",
-                "BaseProfile": "Attendee",
+                "Profile": "RED-FLAG",
+                "BaseProfile": "ATTENDEE",
                 "TaxonomicRank": "Phylum",
                 "SortOrder": 40,
                 "Description": "An ATTENDEE type with potential to compromise the experience for others.[separator] * RED-FLAG warrants your attention[newline] * RED-FLAG will likely disrupt class unless you take action[newline] * RED-FLAG can be disarmed by following disciplined strategies",
@@ -184,40 +184,40 @@
             },
             {
                 "Profile": "Story-Teller",
-                "BaseProfile": "Red-Flag",
+                "BaseProfile": "RED-FLAG",
                 "TaxonomicRank": "Class",
                 "SortOrder": 43,
-                "Description": "A RED-FLAG that raises hand to ask question and then tells a story instead.[separator] * STORY-TELLER is in love with sound of his/her/their own voice[newline]* STORY-TELLER will go into long, rambling diatribes if unchecked[newline]* STORY-TELLER often causes other attendees to roll their eyes",
+                "Description": "A RED-FLAG that raises hand to ask question, but then tells a story instead.[separator] * STORY-TELLER is in love with sound of his/her/their own voice[newline]* STORY-TELLER will go into long, rambling diatribes if unchecked[newline]* STORY-TELLER often causes other attendees to roll their eyes",
                 "Strategies": [
                     "Cut them off with an abrupt 'and your question is?'"
                 ]
             },
             {
-                "Profile": "Spell-Checker",
-                "BaseProfile": "Red-Flag",
+                "Profile": "SPELL-CHECKER",
+                "BaseProfile": "RED-FLAG",
                 "TaxonomicRank": "Class",
                 "SortOrder": 44,
-                "Description": "A RED-FLAG that lets you know about any typo or error no matter how small[separator] * SPELL-CHECKER will call out your inconsistent use of fonts and styles[newline] * SPELL-CHECKER never works on labs due to time spent hunting problems",
+                "Description": "A RED-FLAG that calls out every typo in your material no matter how small.[separator] * SPELL-CHECKER ensures everyone can hear when pointing out errors[newline] * SPELL-CHECKER even calls out your inconsistent use of fonts and styles[newline] * SPELL-CHECKER never works on labs due to time spent hunting problems",
                 "Strategies": [
                     "Spell-Checker 1"
                 ]
             },
             {
-                "Profile": "Blue-Screen",
-                "BaseProfile": "Red-Flag",
+                "Profile": "BLUE-SCREEN",
+                "BaseProfile": "RED-FLAG",
                 "TaxonomicRank": "Class",
                 "SortOrder": 45,
-                "Description": "The Blue Screen is the unlucky student who`s computer just locks up or otherwise misbehaves. Everyone in the class pressed F5 on the exact same VPC image and the Blue Screen's computer is the only one that goes up in flames. Usually walking over and standing near the computer fixes the problem.",
+                "Description": "A RED-FLAG  who`s computer crashes, locks up or otherwise misbehaves.[separator]* BLUE-SCREEN always fails on things where all other attendees succeed[newline]* BLUE-SCREEN can never get past the very first step in Lab Exercise 1[newline] * Walking over and standing near PC of BLUE-SCREEN usually fixes problem",
                 "Strategies": [
                     "Blue-Screen 1"
                 ]
             },
             {
                 "Profile": "Stalker",
-                "BaseProfile": "Red-Flag",
+                "BaseProfile": "RED-FLAG",
                 "TaxonomicRank": "Class",
                 "SortOrder": 46,
-                "Description": "A type of Red-Flag who wants your contant attention after lecture stops until lecture resumes; he/she will not let you take breaks, eat lunch, or go to the restroom without following and asking questions or telling stories.",
+                "Description": "A RED-FLAG that wants your full & complete attention between lectures.[separator] * STALKER sssss[newline] * STALKER sssss he/she will not let you take breaks, eat lunch, or go to the restroom without following and asking questions or telling stories.",
                 "Strategies": [
                     "Provide a false email address", 
                     "Be close to the door when you announce a break so you can make a fast get away", 
@@ -225,8 +225,8 @@
                 ]
             },
             {
-                "Profile": "Know-It-All",
-                "BaseProfile": "Red-Flag",
+                "Profile": "KNOW-IT-ALL",
+                "BaseProfile": "RED-FLAG",
                 "TaxonomicRank": "Class",
                 "SortOrder": 49,
                 "Description": "We`ve all met them; they are already experts in whatever you are explaining, regardless of the subject matter; whether they actually know the material is irrelevant.",
@@ -235,8 +235,8 @@
                 ]
             },
             {
-                "Profile": "Dinosaur",
-                "BaseProfile": "Know-It-All",
+                "Profile": "DINOSAUR",
+                "BaseProfile": "KNOW-IT-ALL",
                 "TaxonomicRank": "Genus",
                 "SortOrder": 50,
                 "Description": "A type of Know-It-All but with no modern experience; however, their 20+ years of experience on a dead technology qualifies them as an expert (in their mind). Dinosaur is particularly toxic when aggregated together with Story-Teller.",
@@ -245,8 +245,8 @@
                 ]
             },
             {
-                "Profile": "Salesman",
-                "BaseProfile": "Red-Flag",
+                "Profile": "SALESMAN",
+                "BaseProfile": "RED-FLAG",
                 "TaxonomicRank": "Class",
                 "SortOrder": 53,
                 "Description": "The salesman relates all features and capabilities back to their favorite technology; they may be open minded and even persuaded, but not before you hear the pitch a few dozen times; may also qualify as a \"Dinosaur\".",
@@ -255,8 +255,8 @@
                 ]
             },
             {
-                "Profile": "Insurgent",
-                "BaseProfile": "Salesman",
+                "Profile": "INSURGENT",
+                "BaseProfile": "SALESMAN",
                 "TaxonomicRank": "Genus",
                 "SortOrder": 54,
                 "Description": "An Insurgent is a type of salesman, but is completely closed minded, almost on a Jihad to convert other students and the instructor to their way of thinking.",
@@ -265,8 +265,8 @@
                 ]
             },
             {
-                "Profile": "Client",
-                "BaseProfile": "Red-Flag",
+                "Profile": "CLIENT",
+                "BaseProfile": "RED-FLAG",
                 "TaxonomicRank": "Class",
                 "SortOrder": 55,
                 "Description": "A type of Red-Flag that has somehow confused your training class with his own personal consulting engagement. He/she asks you all kinds of questions about his/her current engagement and attempts to give you 100+ pages of documentation at the end of the first day for you to read overnight so you can get up to speed and be useful.",
@@ -275,8 +275,8 @@
                 ]
             },
             {
-                "Profile": "Angry-Client",
-                "BaseProfile": "Client",
+                "Profile": "ANGRY-CLIENT",
+                "BaseProfile": "CLIENT",
                 "TaxonomicRank": "Genus",
                 "SortOrder": 56,
                 "Description": "A type of Client that begins to get annoyed that you answer questions asked by other types of Attendee and you continue to teach the material advertised for the class even though he/she has made it clear that's not what he/she paid for.",
@@ -285,8 +285,8 @@
                 ]
             },
             {
-                "Profile": "Really-Angry-Client",
-                "BaseProfile": "Angry-Client",
+                "Profile": "REALLY-ANGRY-CLIENT",
+                "BaseProfile": "ANGRY-CLIENT",
                 "TaxonomicRank": "Species",
                 "SortOrder": 57,
                 "Description": "A type of Angry-Client that boils over and storms out of the classroom vowing never to hire you as a consultant again.",
@@ -295,8 +295,8 @@
                 ]
             },
             {
-                "Profile": "Sleeper",
-                "BaseProfile": "Attendee",
+                "Profile": "SLEEPER",
+                "BaseProfile": "ATTENDEE",
                 "TaxonomicRank": "Phylum",
                 "SortOrder": 60,
                 "Description": "This is the attendee type you really need to watch out for. You often figure out they are trouble after it's too late",
@@ -305,8 +305,8 @@
                 ]
             },
             {
-                "Profile": "Doppleganger",
-                "BaseProfile": "Sleeper",
+                "Profile": "DOPPLEGANGER",
+                "BaseProfile": "SLEEPER",
                 "TaxonomicRank": "Class",
                 "SortOrder": 61,
                 "Description": "A type of Sleeper that is not really interested in the material you are teaching. Instead, he/she wants to be an instructor or presenter himself/herself and all of their questions pertain to metadata about the event, you, and your career.",
@@ -315,8 +315,8 @@
                 ]
             },
             {
-                "Profile": "Assassin",
-                "BaseProfile": "Sleeper",
+                "Profile": "ASSASSIN",
+                "BaseProfile": "SLEEPER",
                 "TaxonomicRank": "Class",
                 "SortOrder": 62,
                 "Description": "A type of Sleeper that interacts with you throughout class; never complains, actively particpates, and then gives scathing post-class evaluation scores without any text-based comments to provide you with any insight into his/her dissatisfaction. Assassin is particular dangerous and diabolical if he/she can successfully impersonate Buddy.",
@@ -325,15 +325,26 @@
                 ]
             },
             {
-                "Profile": "Evil-Genius",
-                "BaseProfile": "Sleeper",
+                "Profile": "BIG-BRAIN-BULLY",
+                "BaseProfile": "SLEEPER",
                 "TaxonomicRank": "Class",
                 "SortOrder": 63,
-                "Description": "A type of Sleeper that uses his/her heightened intelligence of the subject for malicious purposes. Keep a watchful eye, because they like to hide among the other students.",
+                "Description": "A SLEEPER that likes to showcase his/her/their heightened intelligence.[separator] *  BIG-BRAIN-BULLY constantly corrects what you say in your lectures[newline] * BIG-BRAIN-BULLY suffers from SMARTEST-GUY-IN-THE-ROOM syndrone",
+                "Strategies": [
+                    "dickily dooly 1"
+                ]
+            },
+            {
+                "Profile": "EVIL-GENIUS",
+                "BaseProfile": "BIG-BRAIN-BULLY",
+                "TaxonomicRank": "Genus",
+                "SortOrder": 64,
+                "Description": "A BIG-BRAIN-BULLY that uses his/her heightened intelligence of the subject for malicious purposes. Keep a watchful eye, because they like to hide among the other students.",
                 "Strategies": [
                     "Evil-Genius 1"
                 ]
             }
+
         ]
     }
 }
