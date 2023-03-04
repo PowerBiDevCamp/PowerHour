@@ -249,7 +249,7 @@
                 "BaseProfile": "RED-FLAG",
                 "TaxonomicRank": "Class",
                 "SortOrder": 53,
-                "Description": "A RED-FLAG promoting the product that competes with what you're teching.[separator] * SALESMAN xxxx[newline] * SALESMAN xxxxx [newline] relates all features and capabilities back to their favorite technology; they may be open minded and even persuaded, but not before you hear the pitch a few dozen times; may also qualify as a \"Dinosaur\".",
+                "Description": "A RED-FLAG promoting the product that competes with what you're teching.[separator] * SALESMAN relates all features and capabilities back to favorite technology[newline] * SALESMAN likely to pitch favorite technology a dozen times during week.",
                 "Strategies": [
                     "Salesman 1"
                 ]
@@ -259,7 +259,7 @@
                 "BaseProfile": "SALESMAN",
                 "TaxonomicRank": "Genus",
                 "SortOrder": 54,
-                "Description": "An Insurgent is a type of salesman, but is completely closed minded, almost on a Jihad to convert other students and the instructor to their way of thinking.",
+                "Description": "Closed-minded SALESMAN vehemently opposing technology you're teaching[separator] * INSURGENT waits until you leave room to talk to other attendees[newline] * INSURGENT tells other attendees your lectures are one big lie[newline] * INSURGENT attempts to bring othesr to their way of thinking[newline] * INSURGENT says 'Power BI Sucks - Tableau's better, faster and cheaper'",
                 "Strategies": [
                     "Insurgent 1"
                 ]
@@ -269,7 +269,7 @@
                 "BaseProfile": "RED-FLAG",
                 "TaxonomicRank": "Class",
                 "SortOrder": 55,
-                "Description": "A type of Red-Flag that has somehow confused your training class with his own personal consulting engagement. He/she asks you all kinds of questions about his/her current engagement and attempts to give you 100+ pages of documentation at the end of the first day for you to read overnight so you can get up to speed and be useful.",
+                "Description": "A RED-FLAG confusing your class with a personal consulting engagement.[separator] * CLIENT asks 100 questions about his/her/their current project[newline] * CLIENT gives you 100+ pages of documentation to read on the first day[newline] * CLIENT has expectation you will read all documentation and be useful",
                 "Strategies": [
                     "Client 1"
                 ]
@@ -279,7 +279,7 @@
                 "BaseProfile": "CLIENT",
                 "TaxonomicRank": "Genus",
                 "SortOrder": 56,
-                "Description": "A type of Client that begins to get annoyed that you answer questions asked by other types of Attendee and you continue to teach the material advertised for the class even though he/she has made it clear that's not what he/she paid for.",
+                "Description": "A CLIENT that gets annoyed when you answer questions of other attendees.[separator] * ANGRY-CLIENT agitated as you teach class according to promoted agenda[newline] * ANGRY-CLIENT upset when you have lengthy conversations with others[newline] * ANGRY-CLIENT becomes more anxious as class end draws near[newline] * ANGRY-CLIENT keeps saying 'What the hell am I paying fore here?'",
                 "Strategies": [
                     "Angry-Client 1"
                 ]
@@ -289,7 +289,7 @@
                 "BaseProfile": "ANGRY-CLIENT",
                 "TaxonomicRank": "Species",
                 "SortOrder": 57,
-                "Description": "A type of Angry-Client that boils over and storms out of the classroom vowing never to hire you as a consultant again.",
+                "Description": "An ANGRY-CLIENT that boils over and storms out of the classroom.[separator] * REALLY-ANGRY-CLIENT leaves classroom yelling at top of voice[newline] * REALLY-ANGRY-CLIENT asserts your consulting skills really suck[newline] * REALLY-ANGRY-CLIENT vows never to hire you again as a consultant",
                 "Strategies": [
                     "Really-Angry-Client 1"
                 ]
@@ -299,7 +299,7 @@
                 "BaseProfile": "ATTENDEE",
                 "TaxonomicRank": "Phylum",
                 "SortOrder": 60,
-                "Description": "This is the attendee type you really need to watch out for. You often figure out they are trouble after it's too late",
+                "Description": "The most dangerous ATTENDEE type you really need to watch out for.[separator] * SLEEPER never appears to be a threat at start of class[newline] * SLEEPER threat level often not properly diagnosed until it's too late.[newline] * SLEEPER will take you down and crush you if you're not prepared[newline] * SLEEPER has potential to ruin classroom experience for others",
                 "Strategies": [
                     "Sleeper 1"
                 ]
@@ -309,7 +309,7 @@
                 "BaseProfile": "SLEEPER",
                 "TaxonomicRank": "Class",
                 "SortOrder": 61,
-                "Description": "A type of Sleeper that is not really interested in the material you are teaching. Instead, he/she wants to be an instructor or presenter himself/herself and all of their questions pertain to metadata about the event, you, and your career.",
+                "Description": "A SLEEPER thats wants to take your place and steal your identity.[separator] * DOPPLEGANGER not really interested in the material you're teaching[newline] * DOPPLEGANGER only asks questions about event, you, and your career[newline] * DOPPLEGANGER asks 'How much money do you make as a trainer?'[newline] * DOPPLEGANGER will frequently walk behind to see what's on your screen",
                 "Strategies": [
                     "Doppleganger"
                 ]
@@ -319,7 +319,7 @@
                 "BaseProfile": "SLEEPER",
                 "TaxonomicRank": "Class",
                 "SortOrder": 62,
-                "Description": "A type of Sleeper that interacts with you throughout class; never complains, actively particpates, and then gives scathing post-class evaluation scores without any text-based comments to provide you with any insight into his/her dissatisfaction. Assassin is particular dangerous and diabolical if he/she can successfully impersonate Buddy.",
+                "Description": "A SLEEPER that appears to be a STAR until they score your evalution[separator] * ASSASSIN never complains or suggests anything is wrong[newline] * ASSASSIN actively particpates in classroom discussion[newline] * ASSASSIN scores you with a 1-out-of-5 in every evaluation category[newline] * ASSASSIN never leaves text comments to explain severe dissatisfaction[newline] * ASSASSIN particularly diabolical when successfully impersonating BUDDY",
                 "Strategies": [
                     "Assassin 1"
                 ]
