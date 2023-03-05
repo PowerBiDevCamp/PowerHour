@@ -145,7 +145,7 @@
                 "BaseProfile": "TEFLON",
                 "TaxonomicRank": "Class",
                 "SortOrder": 26,
-                "Description": "A TEFLON who attends class only to ensure attendence of others.[separator] * WARDEN has not come to pick up anything from class[newline] * WARDEN there to ensure other attendees show up on time[newline] * WARDEN stays until class ends to ensure other attendees don't leave early[separator] * WARDEN often found in compositions with PRISONER.",
+                "Description": "A TEFLON who attends class only to ensure attendence of others.[separator] * WARDEN has not come to pick up anything from class[newline] * WARDEN there to ensure other attendees show up on time[newline] * WARDEN stays until class ends to ensure other attendees don't leave early[newline] * WARDEN often found in compositions with PRISONER.",
                 "Strategies": [
                     "Make small talk but do not engage in serious conversation."
                 ]
@@ -155,7 +155,7 @@
                 "BaseProfile": "TEFLON",
                 "TaxonomicRank": "Class",
                 "SortOrder": 27,
-                "Description": "A TEFLON that has been forced involuntarily to attend your class.[separator] * PRISONER will not actively participate nor pretend to have any interest[newline] * PRISONER waits patiently for prison sentance to end[newline] * PRISONER often spends lab time Googling 'human rights violations'[separator] * PRISONER often found in compositions with WARDEN",
+                "Description": "A TEFLON that has been forced involuntarily to attend your class.[separator] * PRISONER usually found in compositions with WARDEN[newline] * PRISONER will not actively participate nor pretend to have any interest[newline] * PRISONER waits patiently for his/her/their prison sentance to end[newline] * PRISONER often spends lab time Googling 'human rights violations'",
                 "Strategies": [
                     "Keep saying 'it will all be over soon'"
                 ]
@@ -165,7 +165,7 @@
                 "BaseProfile": "PRISONER",
                 "TaxonomicRank": "Genus",
                 "SortOrder": 28,
-                "Description": "An agitated PRISONER with folded arms emitting negative energy.[separator] * PRETZEL is very unhappy and wants everyone to know[newline] * PRETZEL will give WARDEN the evil eye",
+                "Description": "An agitated PRISONER with folded arms emitting negative energy.[separator] * PRETZEL is very unhappy and wants everyone to know[newline] * PRETZEL will give WARDEN the evil eye whenever given the chance[newline] * PRETZEL poses serious threat for LOW-AS-YOU-CAN-GO evaluation scores",
                 "Strategies": [
                     "Find areas of passion and interest you have in common",
                     "Call upon the Pretzel to make funny comments when class is slow"
@@ -250,7 +250,7 @@
                 "BaseProfile": "KNOW-IT-ALL",
                 "TaxonomicRank": "Genus",
                 "SortOrder": 50,
-                "Description": "A KNOW-IT-ALL with no modern experience.[separator] * DINOSAUR has 20+ years experiences in dead technologies[newline] * DINOSAUR is only type of ATTENDEE who will cheer for IUnknown[newline]* DINOSAUR particularily toxic when agregatted with STORY-TELLER",
+                "Description": "A KNOW-IT-ALL with no modern experience.[separator] * DINOSAUR has 20+ years experiences in dead technologies[newline]* DINOSAUR particularily toxic when agregatted with STORY-TELLER[newline] * DINOSAUR is only type of ATTENDEE who will cheer for IUnknown",
                 "Strategies": [
                     "Dinosaur 1"
                 ]
@@ -260,7 +260,7 @@
                 "BaseProfile": "RED-FLAG",
                 "TaxonomicRank": "Class",
                 "SortOrder": 53,
-                "Description": "A RED-FLAG promoting the product that competes with what you're teching.[separator] * SALESMAN relates all features and capabilities back to favorite technology[newline] * SALESMAN likely to pitch favorite technology a dozen times during week.",
+                "Description": "A RED-FLAG promoting the product that competes with what you're teching.[separator] * SALESMAN relates all features and capabilities back to favorite technology[newline] * SALESMAN likely to pitch favorite technology a dozen times during week",
                 "Strategies": [
                     "Salesman 1"
                 ]
@@ -280,7 +280,7 @@
                 "BaseProfile": "RED-FLAG",
                 "TaxonomicRank": "Class",
                 "SortOrder": 55,
-                "Description": "A RED-FLAG confusing your class with a personal consulting engagement.[separator] * CLIENT asks 100 questions about his/her/their current project[newline] * CLIENT gives you 100+ pages of documentation to read on the first day[newline] * CLIENT has expectation you will read all documentation and be useful",
+                "Description": "A RED-FLAG confusing your class with a personal consulting engagement.[separator] * CLIENT asks 100 questions about his/her/their current consulting project[newline] * CLIENT gives you 100+ pages of documentation to read on the first day[newline] * CLIENT has expectation you will read all documentation to become useful",
                 "Strategies": [
                     "Client 1"
                 ]
@@ -330,7 +330,7 @@
                 "BaseProfile": "SLEEPER",
                 "TaxonomicRank": "Class",
                 "SortOrder": 62,
-                "Description": "A SLEEPER constantly complaining software can't ever reach what's possible in theory[separator] * PERFECTIONIST [newline] * PERFECTIONIST x[newline] * PERFECTIONIST category[newline] * ASSASSIN never leaves text comments to explain severe dissatisfaction[newline] * ASSASSIN particularly diabolical when successfully impersonating BUDDY",
+                "Description": "A SLEEPER who thinks anything possible in theory should also be in practice.[separator] * PERFECTIONIST never thinks anything is good enough[newline] * PERFECTIONIST complains that most software vendors rest of their laurels[newline] * PERFECTIONIST highly annoyed when hearing bogus Marketing claims[newline] * PERFECTIONIST highest form of praise is 'Well, I guess it's OK for now'",
                 "Strategies": [
                     "TP 1"
                 ]
@@ -340,7 +340,7 @@
                 "BaseProfile": "SLEEPER",
                 "TaxonomicRank": "Class",
                 "SortOrder": 63,
-                "Description": "A SLEEPER that appears to be a STAR until you see his/her/their evalution[separator] * ASSASSIN never complains or suggests anything is wrong[newline] * ASSASSIN actively particpates in classroom discussion[newline] * ASSASSIN scores you with a 1-out-of-5 in every evaluation category[newline] * ASSASSIN never leaves text comments to explain severe dissatisfaction[newline] * ASSASSIN particularly diabolical when successfully impersonating BUDDY",
+                "Description": "A SLEEPER that appears to be a STAR until you see his/her/their evalution[separator] * ASSASSIN fools you at first by effectively impersonating a BUDDY [newline]* ASSASSIN never complains or suggests anything is wrong[newline] * ASSASSIN actively particpates in classroom discussion[newline] * ASSASSIN scores you with a 1-out-of-5 in every evaluation category[newline] * ASSASSIN never leaves text comments to explain severe dissatisfaction",
                 "Strategies": [
                     "Assassin 1"
                 ]
