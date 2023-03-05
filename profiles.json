@@ -18,7 +18,7 @@
                 "BaseProfile": "ATTENDEE",
                 "SortOrder": 10,
                 "TaxonomicRank": "Phylum",
-                "Description": "The ideal type of ATTENDEE you want in your training classes.[separator]* They participate[newline] * They’re interested in the topic[newline] * They finished their labs in a timely fashion[newline] * They provide good/great scores[newline] * They \"get it\" with respect to the topics you are teaching",
+                "Description": "The ideal type of ATTENDEE you want in your training classes.[separator]* STAR participates in class[newline] * STAR is interested in the topic you're teaching[newline] * STAR finishes lab exercises in a timely fashion[newline] * STAR provides good/great scores in class evaluation[newline] * STAR \"gets it\" with respect to the topics you're teaching",
                 "Strategies": [
                     "Make sure to give them positive reinforcement"
                 ]
@@ -213,10 +213,21 @@
                 ]
             },
             {
-                "Profile": "STALKER",
+                "Profile": "FLAME-THROWER",
                 "BaseProfile": "RED-FLAG",
                 "TaxonomicRank": "Class",
                 "SortOrder": 46,
+                "Description": "A RED-FLAG who is worst nightmare of any Human Resources department.[separator] * FLAME-THROWER exhibits deep inner need to get reaction out of others[newline] * FLAME-THROWER will escalate offensiveness to get better reactions[newline] * FLAME-THROWER can determine what's most offensive to any audience[newline] * FLAME-THROWER uses AI models to predict future trends in offensiveness",
+                "Strategies": [
+                    "Be close to the door when you an", 
+                    "If cornered in a bathroom, say "
+                ]
+            },
+            {
+                "Profile": "STALKER",
+                "BaseProfile": "RED-FLAG",
+                "TaxonomicRank": "Class",
+                "SortOrder": 47,
                 "Description": "A RED-FLAG that will never leave you alone in between lectures.[separator] * STALKER will walk right up to you the second the lecture is done[newline] * STALKER frequently suffers from CLOSE-TALKER syndrone[newline] * STALKER will follow you into the bathroom and continue asking questions[newline] * STALKER is very interested in getting your phone number and email",
                 "Strategies": [
                     "Provide a false email address", 
@@ -315,10 +326,20 @@
                 ]
             },
             {
-                "Profile": "ASSASSIN",
+                "Profile": "THEORETICAL-PERFECTIONIST",
                 "BaseProfile": "SLEEPER",
                 "TaxonomicRank": "Class",
                 "SortOrder": 62,
+                "Description": "A SLEEPER constantly complaining software can't ever reach what's possible in theory[separator] * THEORETICAL-PERFECTIONIST [newline] * THEORETICAL-PERFECTIONIST x[newline] * THEORETICAL-PERFECTIONIST  category[newline] * ASSASSIN never leaves text comments to explain severe dissatisfaction[newline] * ASSASSIN particularly diabolical when successfully impersonating BUDDY",
+                "Strategies": [
+                    "Assassin 1"
+                ]
+            },
+            {
+                "Profile": "ASSASSIN",
+                "BaseProfile": "SLEEPER",
+                "TaxonomicRank": "Class",
+                "SortOrder": 63,
                 "Description": "A SLEEPER that appears to be a STAR until you see his/her/their evalution[separator] * ASSASSIN never complains or suggests anything is wrong[newline] * ASSASSIN actively particpates in classroom discussion[newline] * ASSASSIN scores you with a 1-out-of-5 in every evaluation category[newline] * ASSASSIN never leaves text comments to explain severe dissatisfaction[newline] * ASSASSIN particularly diabolical when successfully impersonating BUDDY",
                 "Strategies": [
                     "Assassin 1"
@@ -328,7 +349,7 @@
                 "Profile": "BIG-BRAIN-BULLY",
                 "BaseProfile": "SLEEPER",
                 "TaxonomicRank": "Class",
-                "SortOrder": 63,
+                "SortOrder": 64,
                 "Description": "A SLEEPER that likes to showcase his/her/their heightened intelligence.[separator] * BIG-BRAIN-BULLY suffers from SMARTEST-GUY-IN-THE-ROOM syndrone[newline] *  BIG-BRAIN-BULLY constantly correcting everything you say during lecture[newline] * BIG-BRAIN-BULLY has potential to compromise your technical integrity",
                 "Strategies": [
                     "dickily dooly 1"
@@ -338,8 +359,8 @@
                 "Profile": "EVIL-GENIUS",
                 "BaseProfile": "BIG-BRAIN-BULLY",
                 "TaxonomicRank": "Genus",
-                "SortOrder": 64,
-                "Description": "A BIG-BRAIN-BULLY using heightened intelligence for malicious purposes.[separator] * EVIL-GENIUS hides heightened intelligence from you and other attendees[newline] * EVIL-GENIUS asks question pretending to be naive and uninformed[newline] * EVIL-GENIUS carefully sequences questions to take you down deep rathole[newline] * EVIL-GENIUS causes you to experience WTF-Just-Happened moments",
+                "SortOrder": 65,
+                "Description": "A BIG-BRAIN-BULLY using heightened intelligence for malicious purposes.[separator] * EVIL-GENIUS hides heightened intelligence from you and other attendees[newline] * EVIL-GENIUS asks question pretending to be naive and uninformed[newline] * EVIL-GENIUS carefully sequences questions to take you down deep rathole[newline] * EVIL-GENIUS will inflict you with WTF Just-Happened-To-Me moments",
                 "Strategies": [
                     "Evil-Genius 1"
                 ]
