@@ -101,10 +101,10 @@
                 "BaseProfile": "TEFLON",
                 "TaxonomicRank": "Class",
                 "SortOrder": 21,
-                "Description": "A type of TEFLON just there for free food, beverages and raffle prizes.[separator] * MUFFIN-EATER isn't at all interested in what you're teaching[newline] * MUFFIN-EATER often leaves classroom during lectures",
+                "Description": "A type of TEFLON just there for free food, beverages and raffle prizes.[separator] * MUFFIN-EATER is not at all interested in what you're teaching[newline] * MUFFIN-EATER often leaves classroom during lectures",
                 "Strategies": [
                     "Post a sign next to breakfast platter indicating one muffin per attendee",
-                    "Don't leave your sandwich in lunch room refridgerator"
+                    "Do not leave your sandwich in lunch room refridgerator"
                 ]
             },
             {
@@ -114,7 +114,7 @@
                 "SortOrder": 22,
                 "Description": "A TEFLON sucked in by mobile device and totally unaware of surroundings.[separator] * PHONE-HOSTAGE can't take eyes off iPhone for more than 3 seconds[newline] * PHONE-HOSTAGE lacks interest in anything not posted to Instagram[newline] * PHONE-HOSTAGE evaluation scores based on your number of followers",
                 "Strategies": [
-                    "Don't try and start a conversation with PHONE-HOSTAGE - Let sleeping doegs lie",
+                    "Do not try and start a conversation with PHONE-HOSTAGE - Let sleeping dogs lie",
                     "PHONE-HOSTAGE will initiate conversation if he/she/they want to talk to you",
                     "If you need to waste time, ask PHONE-HOSTAGE to show favs on Instagram and TikTok"
                 ]
@@ -171,7 +171,7 @@
                 "SortOrder": 27,
                 "Description": "A TEFLON that has been forced involuntarily to attend your class.[separator] * PRISONER usually found in compositions with WARDEN[newline] * PRISONER will not actively participate nor pretend to have any interest[newline] * PRISONER waits patiently for his/her/their prison sentence to end[newline] * PRISONER often spends lab time Googling 'human rights violations'",
                 "Strategies": [
-                    "Continually reafirm to PRISONER that 'it will all be over soon'",
+                    "Continually reafirm to PRISONER that it will all be over soon",
                     "Find a non-technical topic that PRISONER likes to talk about"
                 ]
             },
@@ -204,7 +204,7 @@
                 "SortOrder": 43,
                 "Description": "A RED-FLAG that raises hand to ask question, but then tells a story instead.[separator] * STORY-TELLER is in love with sound of his/her/their own voice[newline]* STORY-TELLER will go into long, rambling diatribes if unchecked[newline]* STORY-TELLER often causes other attendees to roll their eyes",
                 "Strategies": [
-                    "Cut off STORY-TELLER with an abrupt 'AND YOUR QUESTION IS?'",
+                    "Cut off STORY-TELLER with an abrupt AND YOUR QUESTION IS?",
                     "While other attendees work on labs, allow STORY-TELLER to talk and tire out "
                 ]
             },
@@ -215,7 +215,7 @@
                 "SortOrder": 44,
                 "Description": "A RED-FLAG that calls out every typo in your material no matter how small.[separator] * SPELL-CHECKER ensures everyone can hear when pointing out errors[newline] * SPELL-CHECKER even calls out your inconsistent use of fonts and styles[newline] * SPELL-CHECKER never works on labs due to time spent hunting problems",
                 "Strategies": [
-                    "Kill SPELL-CHECKER with kindness. Say 'Thank you so much - You are awesome'",
+                    "Kill SPELL-CHECKER with kindness. Say - Thank you so much - You are awesome",
                     "Every 15 minutes, ask SPELL-CHECKER if he/she/they have found anything new "
                 ]
             },
@@ -250,7 +250,7 @@
                 "Strategies": [
                     "Provide STALKER with a false email address", 
                     "Be close to the door when you announce a break so you can make a fast get away", 
-                    "If cornered in a bathroom, tell STALKER 'These breaks are really for me not you."
+                    "If cornered in a bathroom, tell STALKER - These breaks are for ME not YOU"
                 ]
             },
             {
@@ -261,7 +261,7 @@
                 "Description": "A RED-FLAG who already knows everything about everything[separator]* KNOW-IT-ALL is expert on all topics, especially what you're teaching[newline]* KNOW-IT-ALL pretends to have been omniscient since birth[newline]* KNOW-IT-ALL can't admit to learning - it contracts being omniscient",
                 "Strategies": [
                     "Keep redirecting KNOW-IT-ALL back to topics covered in class",
-                    "Run load test against KNOW-IT-ALL by asking like 'can you explain string theory?'"
+                    "Run load test against KNOW-IT-ALL by asking like Can you explain string theory?"
                 ]
             },
             {
@@ -294,8 +294,8 @@
                 "SortOrder": 54,
                 "Description": "Closed-minded SALESMAN vehemently opposing technology you're teaching[separator] * INSURGENT waits until you leave room to talk to other attendees[newline] * INSURGENT tells other attendees your lectures are one big lie[newline] * INSURGENT constantly attempting to bring others to their way of thinking[newline] * INSURGENT says Power BI Sucks - Tableau will always be faster & cheaper",
                 "Strategies": [
-                    "Don't leave other attendees alone in classroom with INSURGENT",
-                    "Make sure INSURGENT doesn't get email addresses of other attendees"
+                    "Do not leave other attendees alone in classroom with INSURGENT",
+                    "Make sure INSURGENT does not get email addresses of other attendees"
                 ]
             },
             {
