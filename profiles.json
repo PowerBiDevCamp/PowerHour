@@ -280,7 +280,7 @@
                 "BaseProfile": "RED-FLAG",
                 "TaxonomicRank": "Class",
                 "SortOrder": 53,
-                "Description": "A RED-FLAG promoting the product that competes with what you're teaching.[separator] * SALESMAN relates all features and capabilities back to favorite technology[newline] * SALESMAN likely to pitch favorite technology a dozen times during week",
+                "Description": "A RED-FLAG promoting the product that competes with what you are teaching.[separator] * SALESMAN relates all features and capabilities back to favorite technology[newline] * SALESMAN likely to pitch favorite technology a dozen times during week",
                 "Strategies": [
                     "Try to figure out why SALESMAN came to this class in the first place",
                     "Ask SALESMAN what he/she/they intend to do with knowledge after class",
@@ -292,7 +292,7 @@
                 "BaseProfile": "SALESMAN",
                 "TaxonomicRank": "Genus",
                 "SortOrder": 54,
-                "Description": "Closed-minded SALESMAN vehemently opposing technology you're teaching[separator] * INSURGENT waits until you leave room to talk to other attendees[newline] * INSURGENT tells other attendees your lectures are one big lie[newline] * INSURGENT constantly attempting to bring others to their way of thinking[newline] * INSURGENT says Power BI Sucks - Tableau will always be faster & cheaper",
+                "Description": "Closed-minded SALESMAN vehemently opposing technology you are teaching[separator] * INSURGENT waits until you leave room to talk to other attendees[newline] * INSURGENT tells other attendees your lectures are one big lie[newline] * INSURGENT constantly attempting to bring others to their way of thinking[newline] * INSURGENT says Power BI Sucks - Tableau will always be faster & cheaper",
                 "Strategies": [
                     "Do not leave other attendees alone in classroom with INSURGENT",
                     "Make sure INSURGENT does not get email addresses of other attendees"
